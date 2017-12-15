@@ -1,6 +1,6 @@
 <?php
 
-class SimpleSQL extends PDO
+final class SimpleSQL extends PDO
 {
     private $sql;
 
